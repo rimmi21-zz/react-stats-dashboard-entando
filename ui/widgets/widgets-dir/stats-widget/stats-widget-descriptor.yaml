@@ -1,0 +1,6 @@
+code: stats-app
+titles:
+  en: Entando Statistics MF
+  it: Entando Statistics MF
+group: free
+customUiPath: stats-widget.ftl
